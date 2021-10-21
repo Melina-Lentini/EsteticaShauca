@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './Estilos.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import App from './Components/App';
+import App from '../src/Components/App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
