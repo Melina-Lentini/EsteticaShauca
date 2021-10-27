@@ -14,5 +14,20 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  box-shadow: 0 2rem 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1rem 9px rgba(255, 63, 63, 0.356);
+  color: white;
+}
+
+#cont-carrito {
+  text-align: center;
+  border-style: solid;
+  border-color: fuchsia;
+  width: 10%;
+}
+
+.material-icons {
+  margin: 10px;
+  background-color: fuchsia;
+  color: white;
+  border-color: white;
 }
